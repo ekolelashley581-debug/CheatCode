@@ -1,0 +1,20 @@
+{
+  "name": "cheatcode-v2",
+  "version": "1.0.0",
+  "description": "CheatCode - AI Study Companion",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "dexie": "^3.2.4",
+    "marked": "^9.1.0",
+    "pdfjs-dist": "^3.11.174",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+   "vite": "^5.4.10"
+  }
+}
